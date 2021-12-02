@@ -4,7 +4,9 @@
 
 ### Questions
     - Reverse a String using Stack
-    - Reverse a Paragraph using Stack
+    - Reverse a paragraph using Stack
+    - Reverse a paragraph but without reversing the individual words
+        (This is a String -> String a is This)
     - Implement Stack using Queues
     - Implement Stack using Single Queue
     - Implement a "Strongly Typed" Stack using Arrays
